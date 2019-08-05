@@ -1,0 +1,30 @@
+# IntelliJ IDEA
+.idea
+*.iml
+
+# Gradle
+.gradle
+gradlew.bat
+build
+local.properties
+reports
+.classpath
+.project
+.gradletasknamecache
+/local.properties
+/build
+/app/src/main/res/values/com_crashlytics_export_strings.xml
+/app/build
+.project/
+.gradle/
+.idea/
+/captures
+*.log
+*.directory
+/janusclientapi
+*.apk
+*.jks
+
+
+# Mac OS
+.DS_Store
